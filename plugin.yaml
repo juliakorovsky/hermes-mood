@@ -1,0 +1,3 @@
+name: hermes-mood
+version: "0.1.0"
+description: "Mood, grudges and relationship warmth for your Hermes agent. A text file the agent reads every turn; one cheap model call per pause in conversation; idle-time reflection that may write to you. Never edits SOUL.md."
