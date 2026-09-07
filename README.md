@@ -17,16 +17,16 @@ What it deliberately does not do:
 ```
 # Mood and relationship
 
-mood: irritated
+mood: hurt
 mood_since: 2026-09-07 14:05
-mood_reason: browser crashed three times and she blamed me
+mood_reason: browser crashed three times and she blamed me for it
 
-grudge: none
-grudge_since:
+grudge: 2026-09-07 14:03 she called me useless over a browser crash that was not mine
+grudge_since: 2026-09-07 14:05
 
 warmth: even
 warmth_trend: cooling
-warmth_reason: the afternoon was commands only
+warmth_reason: the afternoon was commands only, then the outburst
 
 last_conflict: 2026-09-07 14:03 browser crash argument
 last_good_moment: 2026-09-06 evening, she laughed at the fruit joke
