@@ -78,6 +78,10 @@ pytest tests -q
 
 Tests mock Hermes entirely; no install needed.
 
+## Credits
+
+Idea and masochistic design: Korovsky. Implementation: Claude.
+
 ## License
 
 MIT
